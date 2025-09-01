@@ -4,14 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SEgLIBY97gqthVeN694w-1" value="生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="SEgLIBY97gqthVeN694w-1" value="生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="259" y="10" width="61" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SEgLIBY97gqthVeN694w-3" value="语音播报:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="169" y="10" width="90" height="30" as="geometry" />
+        <mxCell id="SEgLIBY97gqthVeN694w-3" value="语音播报:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="159" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SEgLIBY97gqthVeN694w-4" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="SEgLIBY97gqthVeN694w-4" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" width="10" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="UcEApI665H0bDD94vmd7-1" value="语音播报未生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry y="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UcEApI665H0bDD94vmd7-2" value="语音播报已生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UcEApI665H0bDD94vmd7-3" value="语音播报:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UcEApI665H0bDD94vmd7-4" value="" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="259" y="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UcEApI665H0bDD94vmd7-5" value="" style="triangle;html=1;whiteSpace=wrap;" vertex="1" parent="UcEApI665H0bDD94vmd7-4">
+          <mxGeometry x="70.5" y="7.5" width="9.5" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
