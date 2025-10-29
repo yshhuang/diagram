@@ -94,6 +94,54 @@
         <mxCell id="aRDLAkGhL6x_BW1nBH4k-4" value="MySQL(从)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="288" y="950" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.075;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rX6SQ9fx1u3YeUK6PX-3-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156" y="700" as="sourcePoint" />
+            <mxPoint x="369" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.151;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rX6SQ9fx1u3YeUK6PX-3-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="820" as="sourcePoint" />
+            <mxPoint x="190" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.084;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.075;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="704" as="sourcePoint" />
+            <mxPoint x="314" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.084;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.075;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="704" as="sourcePoint" />
+            <mxPoint x="521" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.151;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="348.5" y="820" as="sourcePoint" />
+            <mxPoint x="347.5" y="703" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.151;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561" y="820" as="sourcePoint" />
+            <mxPoint x="560" y="703" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-14" value="3.1 查询要同步的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry y="710" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-15" value="3.2 返回数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="156" y="780" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-16" value="4.3 缓存未命中查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="371" y="720" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDLAkGhL6x_BW1nBH4k-17" value="4.4 返回数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="560" y="770" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
